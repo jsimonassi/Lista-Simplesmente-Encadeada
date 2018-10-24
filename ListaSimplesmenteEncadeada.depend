@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1540420525 source:/home/joao/Lista-Simplesmente-Encadeada/ListaSimplesmenteEncadeada/main.c
+	"TAD_Fila.h"
+
+1540420525 /home/joao/Lista-Simplesmente-Encadeada/ListaSimplesmenteEncadeada/TAD_Fila.h
+	<stdio.h>
+	<stdlib.h>
+
+1540420525 source:/home/joao/Lista-Simplesmente-Encadeada/ListaSimplesmenteEncadeada/TAD_Fila.c
+	"TAD_Fila.h"
+
